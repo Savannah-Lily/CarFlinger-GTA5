@@ -19,7 +19,7 @@
 `Upward launch force = 50`
 
 ## Installation
-**To install simply just place CarFlinger.asi in your GTA root folder and make sure you have [ScriptHookV](https://www.dev-c.com/gtav/scripthookv/) installed.**
+**To install, simply place `CarFlinger.asi` in your GTA root folder and make sure you have [ScriptHookV](https://www.dev-c.com/gtav/scripthookv/) installed.**
 
 ## Building source
 **To build from source you need the SDK files from Alexander Blade's [ScriptHookV](https://www.dev-c.com/gtav/scripthookv/).**
