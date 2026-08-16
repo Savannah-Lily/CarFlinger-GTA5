@@ -15,6 +15,7 @@
 
 ## Defaults
 `Launch force = 100`
+
 `Upward launch force = 50`
 
 ## Building source
