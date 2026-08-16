@@ -1,5 +1,6 @@
 # CarFlinger-GTA5
 **CarFlinger is a GTA 5 mod which allows you to fling either yourself or your car**
+
 **it will always launch you in the direction you are looking assuming the Launch force is a positive number**
 
 ## Controls
